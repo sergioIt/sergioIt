@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <!--
 **sergioIt/sergioIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+golnag self-eduction progess
+[![roadmap.sh](https://roadmap.sh/card/tall/67dd19130bcc62b83d4d6f67?variant=dark&roadmaps=golang)](https://roadmap.sh)
